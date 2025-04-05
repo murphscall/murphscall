@@ -3,11 +3,7 @@
   Hi I'm a backend developer.
 </p>
 <p>I enjoy designing and implementing systems logically.</p>
-<h2 align="left">Connect with me</h2>
-<a href="https://www.linkedin.com/in/jinhookim22/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn Profile">
-</a>
-<p align="left"></p>
+
 <h2 align="left">Languages and Tools</h2>
 <h3 align="left">🚀 Backend</h3>
 <p align="left">
