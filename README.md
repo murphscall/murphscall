@@ -42,7 +42,7 @@
 
 ## 📌 Projects
 
-- [커뮤니티 기반 주문형 웹 서비스](https://github.com/murphscall/Petory) 
+- [커뮤니티 기반 주문형 웹 서비스](https://github.com/murphscall/Petory) - Petory
 
 
 <h2 align="left">💻 Open Source Work Status</h2>
