@@ -42,7 +42,7 @@
 
 ## 📌 Projects
 
-- [반려동물 커뮤니티 커머스](https://github.com/murphscall/Petory) - SNS + 커머스
+- [커뮤니티 기반 주문형 웹 서비스](https://github.com/murphscall/Petory) 
 
 
 <h2 align="left">💻 Open Source Work Status</h2>
