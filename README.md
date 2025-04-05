@@ -2,7 +2,6 @@
 <p>
   Hi I'm a backend developer.
 </p>
-<p>I enjoy designing and implementing systems logically.</p>
 
 <h2 align="left">Languages and Tools</h2>
 <h3 align="left">🚀 Backend</h3>
