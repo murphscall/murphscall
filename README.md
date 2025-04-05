@@ -39,6 +39,12 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
+## 📌 Projects
+
+- [반려동물 커뮤니티 커머스](https://github.com/murphscall/Petory) - SNS + 커머스
+
+
 <h2 align="left">💻 Open Source Work Status</h2>
 <p display="flex">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=murphscall&layout=compact&theme=dark" alt="kimjinhoo22" />
