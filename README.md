@@ -35,12 +35,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## 📌 Projects
+## Projects
 
 - [Petory](https://github.com/murphscall/Petory)  - 도커 기반 주문형 웹 서비스 + 커뮤니티
 
 
-<h2 align="left">💻 Open Source Work Status</h2>
+<h2 align="left">Open Source Work Status 💻 </h2>
 <p display="flex">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=murphscall&layout=compact&theme=dark" alt="kimjinhoo22" />
 </p>
