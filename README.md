@@ -38,7 +38,8 @@
 ## Projects
 
 - [Petory](https://github.com/murphscall/Petory)  - 도커 기반 주문형 웹 서비스 + 커뮤니티
-
+- [Chattr](https://github.com/murphscall/be-chattr)  - 실시간 채팅 웹 서비스 - 백엔드
+- [Chattr](https://github.com/murphscall/fe-chattr)  - 실시간 채팅 웹 서비스 - 프론트
 
 <h2 align="left">Open Source Work Status 💻 </h2>
 <p display="flex">
